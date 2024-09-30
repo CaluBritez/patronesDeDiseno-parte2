@@ -7,7 +7,8 @@
     "singleton1": "ts-node src/singleton1.ts",
     "singleton2": "ts-node src/singleton2.ts",
     "adaptador1": "ts-node src/adaptador1.ts",
-    "adaptador2": "ts-node src/adaptador2.ts"
+    "adaptador2": "ts-node src/adaptador2.ts",
+    "observador1": "ts-node src/observador1.ts"
   },
   "author": "",
   "license": "ISC",
